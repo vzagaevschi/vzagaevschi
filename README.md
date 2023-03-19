@@ -4,8 +4,9 @@ Welcome to my Github page!
 
 ### Tools I'm Working With
 ![QGIS](https://img.shields.io/badge/QGIS-%23589632.svg?style=flat-square&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-%23#FAFAFA.svg?style=flat-square&logo=arcgis&logoColor=black)
-![MapInfo](https://img.shields.io/badge/MapInfo-%23#FAFAFA.svg?style=flat-square&logo=mapinfo&logoColor=black)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-%23D3D3D3.svg?style=flat-square&logo=arcgis&logoColor=black)
+![MapInfo](https://img.shields.io/badge/MapInfo-%238017e1.svg?style=flat-square&logo=mapinfo&logoColor=black)
+![Geoserver](https://img.shields.io/badge/Geoserver-%23428bca.svg?style=flat-square&logo=geoserver&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
